@@ -1,0 +1,4 @@
+#ignore a pasta de ambiente virtual
+venv/
+#ignorando arquivo csv
+/dados_vacinas_v1.csv
